@@ -1,0 +1,12 @@
+{
+  "math": [
+    { "level": 1, "question": "What is 2 + 2?", "answer": "4" },
+    { "level": 2, "question": "What is 12 / 3?", "answer": "4" },
+    { "level": 3, "question": "What is the square root of 81?", "answer": "9" }
+  ],
+  "coding": [
+    { "level": 1, "question": "What does 'JS' stand for?", "answer": "JavaScript" },
+    { "level": 2, "question": "What keyword creates a constant in JS?", "answer": "const" },
+    { "level": 3, "question": "What is the result of `typeof null` in JS?", "answer": "object" }
+  ]
+}
